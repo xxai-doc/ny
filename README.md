@@ -4,7 +4,7 @@
 
 Khodi yakutsogolo ya webusayiti ndi gwero lotseguka, talandiridwa kuti muthandizire kukonza zomasulira
 
-* [kod komaliza](https://github.com/xxai-art/web)
+* [Frontend Kodi](https://github.com/xxai-art/web)
 * [Language mapaketi kwa malo lonse](https://github.com/xxai-art/web/tree/main/i18n)
 * [Zinenero mapaketi a ma module olowera](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [Zolemba za Zinenero Zambiri pa Webusaiti](https://github.com/xxai-doc)
